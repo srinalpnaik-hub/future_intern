@@ -1,0 +1,37 @@
+Task 3: API Security Risk Analysis
+
+1. Introduction:
+This report analyzes a sample API to identify potential security risks.
+
+2. Objective:
+To evaluate API security and identify risks.
+
+3. Tools Used:
+- Browser
+- Manual Testing
+
+4. API Tested:
+https://jsonplaceholder.typicode.com/posts
+
+5. Findings:
+- API does not require authentication (no login needed)
+- Data is publicly accessible (userId, title, body)
+- No rate limiting observed
+- No visible input validation
+
+6. Risk Level:
+Medium
+
+7. Impact:
+- Anyone can access data
+- Risk of misuse
+- Possible automated attacks
+
+8. Solution:
+- Add authentication (API keys)
+- Restrict access
+- Implement rate limiting
+- Validate inputs
+
+9. Conclusion:
+The API has security weaknesses that should be fixed.

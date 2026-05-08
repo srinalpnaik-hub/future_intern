@@ -1,0 +1,45 @@
+Task 2: Phishing Email Detection & Awareness
+
+1. Introduction:
+This report analyzes email samples to detect phishing attempts and improve awareness.
+
+2. Objective:
+To identify phishing emails and educate users about prevention.
+
+3. Tools Used:
+- Manual Analysis
+- Browser inspection
+
+4. Email Analysis:
+
+Email 1:
+Subject: Urgent! Your bank account will be suspended
+Sender Email: support@secure-bank-login.xyz (Suspicious)
+
+- Contains urgent message
+- Uses fake link (http://secure-bank-login.xyz)
+- Generic greeting
+→ Classified as PHISHING
+
+Email 2:
+Subject: Monthly Bank Statement
+Sender Email: official@bank.com (Legitimate)
+
+- Legitimate message
+- No suspicious links
+→ Classified as SAFE
+
+5. Phishing Indicators:
+- Urgent language
+- Suspicious links
+- Generic greetings
+- Threatening tone
+
+6. Prevention Tips:
+- Do not click unknown links
+- Check sender email carefully
+- Verify URLs before entering data
+- Use official apps/websites
+
+7. Conclusion:
+Phishing emails can trick users into revealing sensitive information. Awareness is key to prevention.
